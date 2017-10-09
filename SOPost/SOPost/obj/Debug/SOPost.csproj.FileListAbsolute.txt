@@ -1,0 +1,6 @@
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\SOPost\SOPost\bin\Debug\SOPost.exe.config
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\SOPost\SOPost\bin\Debug\SOPost.exe
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\SOPost\SOPost\bin\Debug\SOPost.pdb
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\SOPost\SOPost\obj\Debug\SOPost.csprojResolveAssemblyReference.cache
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\SOPost\SOPost\obj\Debug\SOPost.exe
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\SOPost\SOPost\obj\Debug\SOPost.pdb
