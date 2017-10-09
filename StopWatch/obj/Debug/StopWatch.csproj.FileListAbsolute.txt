@@ -1,0 +1,5 @@
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\EMEEKER\Documents\Visual Studio 2015\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
