@@ -1,0 +1,6 @@
+C:\Users\emeeker\Documents\Visual Studio 2017\Projects\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\emeeker\Documents\Visual Studio 2017\Projects\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\emeeker\Documents\Visual Studio 2017\Projects\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\emeeker\Documents\Visual Studio 2017\Projects\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\emeeker\Documents\Visual Studio 2017\Projects\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\emeeker\Documents\Visual Studio 2017\Projects\Stack\Stack\obj\Debug\Stack.pdb
