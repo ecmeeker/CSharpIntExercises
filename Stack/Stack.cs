@@ -35,6 +35,10 @@ namespace StackImplementation
                 last = _stack[_stack.Count-1];
                 _stack.Remove(last);
             }
+            else if (_stack != null && _stack.Count == 0)
+            {
+                throw new InvalidOperationException("Stack is empty!");
+            }
             else
             {
                 throw new InvalidOperationException("Cannot access a stack until it exists!");
